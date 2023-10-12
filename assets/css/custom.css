@@ -1,0 +1,33 @@
+/* custom.css */
+
+body {
+    background-color: rgb(194, 193, 187);
+    /* Replace with your desired background color */
+}
+
+/* custom.css */
+.bg-pink {
+    background-color: #ff69b4;
+    /* Change to your desired pink color */
+}
+
+.bg-pink .navbar-nav .nav-link {
+    color: white;
+    /* Change text color to white */
+}
+
+    /* custom.css */
+        .bg-pink {
+            background-color: #ff69b4;
+            /* Change to your desired pink color */
+        }
+    
+        /* You can also change the text color in the footer if needed */
+        .bg-pink {
+            color: white;
+            /* Change text color to white */
+        }
+
+        .btn.con {
+            background-color: rgb(214, 214, 198);
+        }
